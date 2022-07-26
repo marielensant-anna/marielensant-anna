@@ -14,8 +14,6 @@
  
  
  
- 
- 
  ![Snake animation](https://github.com/marielensant-anna/marielensant-anna/blob/output/github-contribution-grid-snake.svg)
  
 </div>
