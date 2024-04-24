@@ -1,4 +1,4 @@
-## Oi, eu sou a Marielen Sant'Anna, analista de requisitos e estudante de programação front-end!
+## Oi, eu sou a Marielen Sant'Anna, analista de sistemas e estudante de programação back-end em Java!
 <div align="center">
   <a href="https://github.com/marielensant-anna">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marielensant-anna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
